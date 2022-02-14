@@ -14,12 +14,16 @@ Please don’t modify the logos or use them in any altered way.<br>
 <a href="https://github.com/katorlys/MediaKit/raw/main/primary_color_2.png"><img src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/primary_color_2.png"></img></a></p>
 
 ## Marks
-**Normal Size**<br>
+**Original SVG**  
+<p align="center"><a href="https://github.com/katorlys/MediaKit/raw/main/marks/mark.svg"><img width=48% src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/marks/mark.svg"></img></a><br>
+<a href="https://github.com/katorlys/MediaKit/raw/main/marks/mark.svg">Download .svg</a></p>
+
+**Normal Size**  
 |Transparent|White|
 |:---:|:---:|
 |<a href="https://github.com/katorlys/MediaKit/raw/main/marks/mark.png"><img width=48% src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/marks/mark.png"></img></a>|<a href="https://github.com/katorlys/MediaKit/raw/main/marks/mark_white.png"><img width=48% src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/marks/mark_white.png"></img></a>|
 
-**Large Size**<br>
+**Large Size**  
 |Transparent|White|
 |:---:|:---:|
 |<a href="https://github.com/katorlys/MediaKit/raw/main/marks/mark_large.png"><img width=48% src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/marks/mark_large.png"></img></a>|<a href="https://github.com/katorlys/MediaKit/raw/main/marks/mark_large_white.png"><img width=48% src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/marks/mark_large_white.png"></img></a>|
