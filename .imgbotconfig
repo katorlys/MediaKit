@@ -1,0 +1,7 @@
+{
+    "ignoredFiles": [
+        "logos/*",
+        "marks/*",
+        "watermarks/*"
+    ]
+}
