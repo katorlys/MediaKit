@@ -1,7 +1,8 @@
 # MediaKit
 We’ve put together some assets to show our brand.<br>
 
-<p align="center"><a href="https://github.com/katorlys/MediaKit/archive/refs/heads/main.zip" target="_blank"><img align="center" width="94%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download1.png"></a></p>
+## Download
+<p align="center"><a href="https://github.com/katorlys/MediaKit/archive/refs/heads/main.zip" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/github-download.png"></a><a href="https://github.katorly.workers.dev/katorlys/MediaKit/archive/refs/heads/main.zip" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/cloudflare-download.png"></a><br></p>
 
 ## LICENSE
 Please don’t modify the logos or use them in any altered way.<br>
