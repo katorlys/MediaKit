@@ -1,7 +1,7 @@
 {
     "ignoredFiles": [
-        "logos/*",
-        "marks/*",
-        "watermarks/*"
+        "display/*",
+        "logo/*",
+        "mark/*"
     ]
 }

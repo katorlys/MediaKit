@@ -1,41 +1,53 @@
 # MediaKit
-We’ve put together some assets to show our brand.<br>
+We’ve put together some assets to show our brand. You can use them freely, as long as you follow the guidelines below.  
+This is just for fun, for we're not meant to take ourselves seriously.  
+
+PS: I may release a webpage to replace this README in the future.
 
 ## Download
 <p align="center"><a href="https://github.com/katorlys/MediaKit/archive/refs/heads/main.zip" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/github-download.png"></a><a href="https://github.katorly.workers.dev/katorlys/MediaKit/archive/refs/heads/main.zip" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/cloudflare-download.png"></a><br></p>
 
-## LICENSE
-Please don’t modify the logos or use them in any altered way.<br>
+## Guidelines
+### ✅ DOs
+You may use the media kit in the following ways:
+- Talking about Katorly Lab.
+- Use them to link to Katorly Lab.
+- Linking to our codes & contents.
+- Use them in a blog post or news article related to Katorly Lab.
+- Use them in pictures or videos that are related to Katorly Lab.
 
-"Katorly Lab", "Katorly Lab for Insiders", "Katorly Code Lab", "Katorly Dev", "katorlys", and their logos and marks are original by Katorly. Do not use, copy, modify, or distribute. All rights reserved.
+### ❌ DON'Ts
+"Katorly Lab", "Katorly Lab for Insiders", "Katorly Code Lab", "Katorly Dev", "katorlys", and their logos and marks are original by Katorly. All rights reserved.  
 
-## Primary Colors
-<p align="center"><a href="https://github.com/katorlys/MediaKit/raw/main/primary_color_1.png"><img src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/primary_color_1.png"></img></a>
-<br>
-<a href="https://github.com/katorlys/MediaKit/raw/main/primary_color_2.png"><img src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/primary_color_2.png"></img></a></p>
+Please DO NOT do the followings:
+- Modify them or integrate parts of them into your own.
+- Use them as the icon or logo for your business/organization, offering, project, domain name, social media account, or website.
+- Stretch, recolor, outline, rotate or combing the logo with the mark.
+- Use our branding or marks on merchandise.
 
-## Marks
-**Original SVG**  
-<p align="center"><a href="https://github.com/katorlys/MediaKit/raw/main/marks/mark.svg"><img width=48% src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/marks/mark.svg"></img></a><br>
-<a href="https://github.com/katorlys/MediaKit/raw/main/marks/mark.svg">Download .svg</a></p>
+![](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/6_style_guide.png)  
 
-**Normal Size**  
-|Transparent|White|
-|:---:|:---:|
-|<a href="https://github.com/katorlys/MediaKit/raw/main/marks/mark.png"><img width=48% src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/marks/mark.png"></img></a>|<a href="https://github.com/katorlys/MediaKit/raw/main/marks/mark_white.png"><img width=48% src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/marks/mark_white.png"></img></a>|
+*If you still have questions on using them, feel free to open a discussion [here](https://github.com/orgs/katorlys/discussions).*
 
-**Large Size**  
-|Transparent|White|
-|:---:|:---:|
-|<a href="https://github.com/katorlys/MediaKit/raw/main/marks/mark_large.png"><img width=48% src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/marks/mark_large.png"></img></a>|<a href="https://github.com/katorlys/MediaKit/raw/main/marks/mark_large_white.png"><img width=48% src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/marks/mark_large_white.png"></img></a>|
 
-## Logos
-|Black|White|
-|:---:|:---:|
-|<a href="https://github.com/katorlys/MediaKit/raw/main/logos/logo.png"><img width=48% src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/logos/logo.png"></img></a>|<a href="https://github.com/katorlys/MediaKit/raw/main/logos/logo_white.png"><img width=48% src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/logos/logo_white.png"></img></a>|
+## Colors
+![](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/1_primary_color.png)  
+![](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/2_additional_colors.png)  
 
-## Watermarks
-|no Code|Code|Insiders|
-|:---:|:---:|:---:|
-|<a href="https://github.com/katorlys/MediaKit/raw/main/watermarks/watermark_blue.png"><img width=48% src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/watermarks/watermark_blue.png"></img></a>|<a href="https://github.com/katorlys/MediaKit/raw/main/watermarks/watermark_purple.png"><img width=48% src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/watermarks/watermark_purple.png"></img></a>|<a href="https://github.com/katorlys/MediaKit/raw/main/watermarks/watermark_insiders.png"><img width=48% src="https://cdn.jsdelivr.net/gh/katorlys/MediaKit/watermarks/watermark_insiders.png"></img></a>|
-|<a href="https://github.com/katorlys/MediaKit/raw/main/watermarks/watermark_blue.svg">Download .svg</a>|<a href="https://github.com/katorlys/MediaKit/raw/main/watermarks/watermark_purple.svg">Download .svg</a>|<a href="https://github.com/katorlys/MediaKit/raw/main/watermarks/watermark_insiders.svg">Download .svg</a>|
+## Fonts
+The fonts are licensed under the [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).  
+
+![](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/3_fonts.png)  
+
+## Usage of the Watermark
+![](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/4_watermark.png)  
+
+
+## Display
+[![](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/display/display.png)](https://github.com/katorlys/MediaKit/raw/main/display_preview.png)  
+
+## Logo
+[![](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/logo/)](https://github.com/katorlys/MediaKit/raw/main/logo_preview.png)  
+
+## Mark
+[![](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/mark/)](https://github.com/katorlys/MediaKit/raw/main/mark_preview.png)  
