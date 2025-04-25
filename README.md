@@ -1,17 +1,22 @@
 # MediaKit
 We’ve put together some assets to show our brand. You can use them freely, as long as you follow the guidelines below.  
+
 This is just for fun, and we're not meant to take ourselves seriously.  
 
-PS: We may publish a webpage to replace this README in the future.
 
-## Download
-<p align="center"><a href="https://github.com/katorlys/MediaKit/archive/refs/heads/main.zip" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/github-download.png"></a><a href="https://github.katorly.workers.dev/katorlys/MediaKit/archive/refs/heads/main.zip" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/cloudflare-download.png"></a><br></p>
+## Colors
+[![colors](/Colors.png)](/Colors.png)  
 
-## Style Guide
-**Learn how to use the media-kit properly. Click [here](/styleguide/README.md).**
+
+## Fonts
+[![fonts](/Fonts.png)](/Fonts.png)
+
 
 ## Guidelines
-"Katorly Lab", "Katorly Lab for Insiders", "Katorly Code Lab", "Katorly Dev", "katorlys", and their logos and marks are original by Katorly. All rights reserved.  
+[![Marks](/Guidelines/Marks.png)](/Guidelines/Marks.png)  
+[![Logos](/Guidelines/Logos.png)](/Guidelines/Logos.png)  
+[![Dont's](/Guidelines/Donts.png)](/Guidelines/Donts.png)  
+[![Watermarks](/Guidelines/Watermarks.png)](/Guidelines/Watermarks.png)  
 
 ### ✅ DOs
 You may use the media kit in the following ways:
@@ -29,17 +34,3 @@ Please DO NOT do the followings:
 - Use our branding or marks on merchandise.
 
 *If you still have questions on using them, feel free to open a discussion [here](https://github.com/orgs/katorlys/discussions).*
-
-
-## Colors
-[![primary](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/color_primary.png)](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/color_primary.png)  
-[![additional](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/color_additional.png)](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/color_additional.png)  
-
-
-## MediaKit Preview
-These are what you'll get in our MediaKit.  
-
-[![banner](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/preview_banner.png)](https://github.com/katorlys/MediaKit/tree/main/banner)  
-[![logo](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/preview_logo.png)](https://github.com/katorlys/MediaKit/tree/main/logo)  
-[![wordmark](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/preview_wordmark.png)](https://github.com/katorlys/MediaKit/tree/main/wordmark)  
-[![watermark](https://cdn.jsdelivr.net/gh/katorlys/MediaKit/preview_watermark.png)](https://github.com/katorlys/MediaKit/tree/main/watermark)  
