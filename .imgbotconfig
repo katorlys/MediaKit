@@ -1,9 +1,9 @@
 {
     "ignoredFiles": [
-        "Logo/*",
-        "Mark/*",
-        "SamplesLogo/*",
-        "Watermark/*",
-        "website-favicons/*"
+        "favicons/*",
+        "logo/*",
+        "mark/*",
+        "samplesLogo/*",
+        "watermark/*"
     ]
 }
