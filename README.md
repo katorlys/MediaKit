@@ -5,13 +5,34 @@ This is just for fun, and we're not meant to take ourselves too seriously.
 
 [[ Download the Repository ]](https://github.com/katorlys/MediaKit/archive/main.zip)
 
-
-## Colors
 [![colors](/colors.png)](/colors.png)  
 
-
-## Fonts
 [![fonts](/fonts.png)](/fonts.png)
+
+
+## Use external links
+Take `mark.png` as an example. You can link to it in the following ways:
+
+### GitHub blobs
+```
+https://github.com/katorlys/.github/blob/main/assets/mark/mark.png
+```
+
+### GitHub raw
+```
+https://raw.githubusercontent.com/katorlys/.github/main/assets/mark/mark.png
+```
+
+### jsDelivr
+```
+https://cdn.jsdelivr.net/gh/katorlys/.github/assets/mark/mark.png
+```
+
+### katorly.com
+Omit the asset folder from the path.
+```
+https://katorly.com/static/mark.png
+```
 
 
 ## Guidelines
